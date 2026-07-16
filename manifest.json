@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "name": "Injector.exe",
+      "url": "https://raw.githubusercontent.com/YourUsername/masculine-files/main/injector.exe",
+      "hash": ""
+    },
+    {
+      "name": "Module.dll",
+      "url": "https://raw.githubusercontent.com/YourUsername/masculine-files/main/module.dll",
+      "hash": ""
+    }
+  ]
+}
