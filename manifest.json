@@ -3,12 +3,12 @@
   "files": [
     {
       "name": "Injector.exe",
-      "url": "https://raw.githubusercontent.com/YourUsername/masculine-files/main/injector.exe",
+      "url": "https://github.com/browhathehell82-collab/masculine-files/raw/refs/heads/main/Injector.exe",
       "hash": ""
     },
     {
       "name": "Module.dll",
-      "url": "https://raw.githubusercontent.com/YourUsername/masculine-files/main/module.dll",
+      "url": "https://github.com/browhathehell82-collab/masculine-files/raw/refs/heads/main/Module.dll",
       "hash": ""
     }
   ]
